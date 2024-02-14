@@ -30,14 +30,20 @@
 ---
 
 ### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+>Carboard  (팀 프로젝트)  
+>개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+  - java 
+  - python
+  - Apache Tomcat 9.0
+  - Oracle DateBase
+  - HTML
+  - CSS
+  - JS
+
 >  
->[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+>[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo/blob/master/README.md) 참고
 
 ---
 

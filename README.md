@@ -12,7 +12,7 @@
 ## :pushpin: Contact
 - 이메일: kjc072817@gmail.com
 - 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 깃헙: [https://github.com/whggeasdf]
 
 </br>
 
@@ -48,8 +48,8 @@
 ---
 
 ### 3. [세 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+>AILA 
+>개발 기간: 2018.1.30 ~ 2018.4.1
 >  
 >기술 스택:  
 >Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  

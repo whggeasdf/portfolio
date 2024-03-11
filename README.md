@@ -20,7 +20,7 @@
 </br>
 
 ## :pushpin: Projects
-### 2. [첫 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 1. [첫 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >Carboard  (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
@@ -38,7 +38,7 @@
 
 ---
 
-### 3. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
 >AILA 
 >개발 기간: 2018.1.30 ~ 2018.4.1
 >  

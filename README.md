@@ -20,7 +20,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [첫 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
+### 1. [첫 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
 >Carboard  (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
@@ -35,14 +35,3 @@
 
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo/blob/master/README.md) 참고
-
----
-
-### 2. [두 번째 프로젝트](https://github.com/JungHyung2/gitio.io)
->AILA 
->개발 기간: 2018.1.30 ~ 2018.4.1
->  
->기술 스택:  
-
->  
->[프로젝트 상세 설명]() 참고

@@ -35,3 +35,26 @@
 
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo/blob/master/README.md) 참고
+>
+> ### 2. [두 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo)
+AILA  (팀 프로젝트)  
+>개발 기간: 2024.02.05 ~ 2024.04.01  
+>  
+>기술 스택:  
+  -Java 17
+  - Jsp/Servlet
+  - Maven
+  - mysql
+  - Gson Library
+  - MyBatis
+  - Lombok
+  - Python
+  - Apache Tomcat 9.0
+  - google trend API
+
+
+  - JS
+  - css
+  - html
+>  
+>[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo) 참고

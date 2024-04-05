@@ -32,6 +32,34 @@
   - HTML
   - CSS
   - JS
+ > 서비스 흐름도
+>  ![image](https://github.com/whggeasdf/portfolio/assets/152270440/06234277-af75-40e2-8959-41efb7ad7257)
+ > 데이터 확보
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/9dbf3fc6-baf7-4977-8129-abeb4df6614a)
+>메인기능
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/583739d9-a11e-4827-a10e-de1bf2d8c314)
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/21bf5f28-04e9-4303-a1eb-fc87e26cdaa6)
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/9fb96f41-1874-4223-a78d-bbe479112abb)
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/ed7b0708-a7d1-45bc-af84-2c37c360d05f)
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/7fa7f197-ba00-4f58-932b-b06ac4c68ad6)
+>
+> 트러블 슈팅
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/10043bab-68c1-4a2d-9ebc-ff1bb582ce6c)
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/4064272f-744c-4750-b52d-a919df4b3f10)
+> 개선방안
+> ![image](https://github.com/whggeasdf/portfolio/assets/152270440/be872f82-9c39-4582-896f-a7ef45d4cba2)
+> 
+
+
+
+
+
+
+
+
+
+
+
 
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo/blob/master/README.md) 참고

@@ -19,8 +19,12 @@
 
 </br>
 
+### 1. [두 번째 프로젝트]
+
+
+
 ## :pushpin: Projects
-### 1. [첫 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
+### 1. [두 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo)
 >Carboard  (팀 프로젝트)  
 >개발 기간: 2023.11.28 ~ 2024.01.05  
 >  
@@ -68,7 +72,7 @@
 >  
 >[프로젝트 상세 설명](https://github.com/SMHRD-2021-KDT-AI-16/Intgram_Repo/blob/master/README.md) 참고
 >
-> ### 2. [두 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo)
+> ### 2. [세 번째 프로젝트](https://github.com/SMHRD-2021-KDT-AI-16/AILA-Repo)
 AILA  (팀 프로젝트)  
 >개발 기간: 2024.02.05 ~ 2024.04.01  
 >  

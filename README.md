@@ -31,7 +31,7 @@
   -![image](https://github.com/whggeasdf/portfolio/assets/152270440/7d8babb1-1346-474c-ae96-c646311e4059)
 
   - 발표 PPT
-[Modern Project Manager Resume Presentation의 사본.pdf](https://github.com/whggeasdf/portfolio/files/15131681/Modern.Project.Manager.Resume.Presentation.pdf)
+[HorseGame.pdf](https://github.com/whggeasdf/portfolio/files/15131681/Modern.Project.Manager.Resume.Presentation.pdf)
   - [HorseGame.zip](https://github.com/whggeasdf/portfolio/files/15131846/HorseGame.zip)
 > 나의 역할 : View 와 관련된 개발과 MainStory 작성, PPT의 MVC 클래스 다이어그램 작성
 
@@ -54,9 +54,8 @@
 온실가스 배출은 일반적으로 SCOPE 1,SCOPE 2,SCOPE 3 로 정의된다.
 기업들이 SCOPE3 분야의 탄소배출을 쉽게 파악하고 관리할 수 있도록 도움을 주고자 하였습니다. 또한 기업 뿐만이 아닌 탄소중립에 관심이 있는 일반인들에게는 저희 서비스 중 국내 탄소배출 데이터를 한눈에 볼 수 있는 대시보드 서비스를 제공하고자 하였습니다.
 >
-> <br>
->발표 PPT
-> [녹색 일러스트 친환경 에코 재생 에너지 기후 환경 프리젠테이션의 사본.pdf](https://github.com/whggeasdf/portfolio/files/15132065/default.pdf)
+  - 발표 PPT
+> [Carbord.pdf](https://github.com/whggeasdf/portfolio/files/15132065/default.pdf)
 
  > 서비스 흐름도
 >  ![image](https://github.com/whggeasdf/portfolio/assets/152270440/06234277-af75-40e2-8959-41efb7ad7257)

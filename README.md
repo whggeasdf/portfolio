@@ -33,7 +33,7 @@
   - 발표 PPT
 [Modern Project Manager Resume Presentation의 사본.pdf](https://github.com/whggeasdf/portfolio/files/15131681/Modern.Project.Manager.Resume.Presentation.pdf)
   - [HorseGame.zip](https://github.com/whggeasdf/portfolio/files/15131846/HorseGame.zip)
-> 나의 역할 : View 와 관련된 개발과 MainStory 작성, 클래스 다이어그램 작성
+> 나의 역할 : View 와 관련된 개발과 MainStory 작성, PPT의 MVC 클래스 다이어그램 작성
 
 
 

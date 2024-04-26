@@ -19,7 +19,21 @@
 
 </br>
 
-### 1. [두 번째 프로젝트]
+### 1. 첫 번째 프로젝트
+이 프로젝트는 GitHub를 통한 협업이 아니였음
+>경마 배팅 게임(팀 프로젝트)
+>개발 기간 : 2023.11.7~2023.11.9
+>기술 스택:
+  - JAVA
+  - Oracle DateBase
+서비스 흐름도
+  -![image](https://github.com/whggeasdf/portfolio/assets/152270440/061065c7-83c5-47b7-bc43-de12cee7aec2)
+  -![image](https://github.com/whggeasdf/portfolio/assets/152270440/7d8babb1-1346-474c-ae96-c646311e4059)
+
+  - 발표 PPT
+[Modern Project Manager Resume Presentation의 사본.pdf](https://github.com/whggeasdf/portfolio/files/15131681/Modern.Project.Manager.Resume.Presentation.pdf)
+  - [HorseGame.zip](https://github.com/whggeasdf/portfolio/files/15131846/HorseGame.zip)
+> 나의 역할 : View 와 관련된 개발과 MainStory 작성, 클래스 다이어그램 작성
 
 
 

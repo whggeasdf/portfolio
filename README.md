@@ -53,6 +53,8 @@
 > 개발배경
 온실가스 배출은 일반적으로 SCOPE 1,SCOPE 2,SCOPE 3 로 정의된다.
 기업들이 SCOPE3 분야의 탄소배출을 쉽게 파악하고 관리할 수 있도록 도움을 주고자 하였습니다. 또한 기업 뿐만이 아닌 탄소중립에 관심이 있는 일반인들에게는 저희 서비스 중 국내 탄소배출 데이터를 한눈에 볼 수 있는 대시보드 서비스를 제공하고자 하였습니다.
+>발표 PPT
+> [녹색 일러스트 친환경 에코 재생 에너지 기후 환경 프리젠테이션의 사본.pdf](https://github.com/whggeasdf/portfolio/files/15132065/default.pdf)
 
  > 서비스 흐름도
 >  ![image](https://github.com/whggeasdf/portfolio/assets/152270440/06234277-af75-40e2-8959-41efb7ad7257)
@@ -71,6 +73,7 @@
 > 개선방안
 > ![image](https://github.com/whggeasdf/portfolio/assets/152270440/be872f82-9c39-4582-896f-a7ef45d4cba2)
 > 
+
 
 
 
